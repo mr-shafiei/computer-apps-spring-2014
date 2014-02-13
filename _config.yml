@@ -1,4 +1,5 @@
-name: Mr. Shafiei's Classes
+name: "Mr. Shafiei's Classes"
 markdown: redcarpet
 pygments: true
 basurl: /classes
+permalink: pretty
