@@ -1,3 +1,4 @@
-name: Your New Jekyll Site
+name: Mr. Shafiei's Classes
 markdown: redcarpet
 pygments: true
+basurl: /classes
