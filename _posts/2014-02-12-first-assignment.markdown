@@ -3,6 +3,7 @@ layout: assignment
 title:  "First Assignment"
 date:   2014-02-12 12:35:29
 categories: assignment
+due-date:  "February 16, 2014"
 ---
 
 Makes about 15 small cookies.
