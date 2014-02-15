@@ -2,6 +2,7 @@ name: "Bobak"
 markdown: redcarpet
 pygments: true
 permalink: pretty
+baseurl: /
 
 
 
