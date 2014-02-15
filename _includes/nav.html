@@ -1,8 +1,8 @@
-{% assign url = page.url %}
+{% assign current_url = page.url|remove: '/' %}
 	<ul class="nav">
 	<li><a href="{{ site.baseurl }}" class="site_name">{{ site.name }}</a></li>
     {% for link in site.navigation %}
-    <li {% if url == link.url %}class="current"{% endif %}>
+    <li {% if link.url|remove: '/' == current_url %}class="current"{% endif %}>
        <a href="{{site.baseurl}}{{link.url}}" title="{{link.title}}">{{link.text}}</a></li>
     {% endfor %}
   </ul>

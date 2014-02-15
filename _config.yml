@@ -9,16 +9,16 @@ baseurl: /classes
 navigation:
 - title: Assignments
   text: Assignments
-  url: /assignments
+  url: /pages/assignments
   
 - title: Calendar
   text: Calendar
-  url: /calendar
+  url: /pages/calendar
   
 - title: Syllabus
   text: Syllabus
-  url: /syllabus
+  url: /pages/syllabus
   
 - title: Blog
   text: Blog
-  url: /blog
+  url: /pages/blog
