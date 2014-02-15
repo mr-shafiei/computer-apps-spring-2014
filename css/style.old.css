@@ -1,0 +1,13 @@
+body {
+    background:skyblue;
+    /* background-image: url(../img/umbrella.jpg); */
+    background-repeat:no-repeat;
+    background-position:top;
+    background-attachment:fixed;
+}
+
+#wrapper {
+    padding:5%;
+    background: white;
+    min-height:100%;
+}

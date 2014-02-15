@@ -1,5 +1,16 @@
-name: "Mr. Shafiei's Classes"
+name: "Bobak"
 markdown: redcarpet
 pygments: true
-baseurl: /classes
 permalink: pretty
+
+
+
+navigation:
+- text: Assignments
+  url: /assignments
+- text: Calendar
+  url: /calendar
+- text: Syllabus
+  url: /syllabus
+- text: Blog
+  url: /blog
