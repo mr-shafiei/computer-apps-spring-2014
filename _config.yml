@@ -2,16 +2,20 @@ name: "Bobak"
 markdown: redcarpet
 pygments: true
 permalink: pretty
-baseurl: "http://thebobak.github.io/classes"
+baseurl: /classes
 
 
 
 navigation:
-- text: Assignments
+- title: Assignments
+  text: Assignments
   url: /assignments
-- text: Calendar
+- title: Calendar
+  text: Assignments
   url: /calendar
-- text: Syllabus
+- title: Syllabus
+  text: Syllabus
   url: /syllabus
-- text: Blog
+- title: Blog
+  text: Blog
   url: /blog
