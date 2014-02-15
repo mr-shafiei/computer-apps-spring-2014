@@ -1,7 +1,7 @@
 name: "Bobak"
 markdown: redcarpet
 pygments: true
-permalink: pretty
+permalink: /:categories/:title
 baseurl: /classes
 
 
@@ -10,12 +10,15 @@ navigation:
 - title: Assignments
   text: Assignments
   url: /assignments
+  
 - title: Calendar
-  text: Assignments
+  text: Calendar
   url: /calendar
+  
 - title: Syllabus
   text: Syllabus
   url: /syllabus
+  
 - title: Blog
   text: Blog
   url: /blog

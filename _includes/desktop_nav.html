@@ -1,13 +1,5 @@
 <div id="desktop_nav" class="clearfix">
-        {% assign current_page = page.url %}
-	<ul class="nav">
-	<li><a href="" class="site_name">{{ page.title }}</a></li>
-    {% for link in site.navigation %}
-
-    <li {% if current_page == link.url %}class="current"{% endif %}>
-       <a href="{{ link.url }}" title="{{ link.title }}">{{ link.text }}</a></li>
-    {% endfor %}
-  </ul>
+    {% include nav.html %}
 </div>
 
 
