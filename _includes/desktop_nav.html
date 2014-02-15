@@ -5,13 +5,10 @@
     {% for link in site.navigation %}
 
     <li {% if current_page == link.url %}class="current"{% endif %}>
-       <a href="{{link.url}}" title="{{link.title}}">{{link.text}}</a></li>
+       <a href="{{ link.url }}" title="{{ link.title }}">{{ link.text }}</a></li>
     {% endfor %}
   </ul>
 </div>
-{{ current_page }}
-{{ page.url }}
-{{ page.url|prepend:'/' }}
 
 
 
