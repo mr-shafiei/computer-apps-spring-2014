@@ -1,8 +1,13 @@
 ---
-layout: assignment
-title:  "Second Assignment"
-date:   2014-02-13 12:35:29
+layout: sidebar
+title:  "Internet Lab"
+date:   2014-02-18 00:00:00
 categories: assignment
+due-date: "Friday, Feb. 20"
+
+attachments:
+- name: "World Map"
+  filename: "map.jpg"
 ---
 
 Makes about 15 small cookies.
@@ -27,4 +32,4 @@ Makes about 15 small cookies.
 4. Tip some flour onto the work surface and knead the dough until smooth.
 5. Preheat the oven to 180°C.
 6. Roll the dough out flat and use a shaped cutter to make as many cookies as you like.
-7. Transfer the cookies to a tray and bake in the oven for 15 minutes. Lightly dust the cookies with icing sugar.
+7. Transfer the cookies to a tray and bake in the oven for 15 minutes. Lightly dust the cookies with icing sugar
