@@ -1,7 +1,7 @@
 name: "Mr. Shafiei's Classes"
 markdown: redcarpet
 pygments: true
-permalink: /:categories/:title
+permalink: :categories/:title
 baseurl: /classes
 
 
