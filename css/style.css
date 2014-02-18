@@ -1,4 +1,6 @@
 #flag { display:none;}
+
+
 /* ------------- setup ------------------ */
 /* we are using a more intuitive box model
  see http://paulirish.com/2012/box-sizing-border-box-ftw */
@@ -81,13 +83,16 @@ body {
 
 
 
+
+
 /* ---------------- big screen background ------- */
 
 @media only screen and (min-width: 681px) {
 
 	body {
 		background-color: #000;
-		background-image: url('../img/chalkboard.jpg');
+		background-image: url('../img/berlin.jpg');
+        background-size:1500px;
 		background-position: 50% 0;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
@@ -242,6 +247,73 @@ body {
 .clearfix:before, .clearfix:after { content: ""; display: table; }
 .clearfix:after { clear: both; }
 .clearfix { *zoom: 1; }
+
+
+/* Calendar Icons */
+
+.calendar-icon {
+    margin: 20px auto;
+    width: 200px;
+    height: 200px;
+    -moz-border-radius: 24px;
+    -webkit-border-radius: 24px;
+    border-radius: 24px;
+    position: relative;
+    background: #FFF
+    }
+
+.calendar-header {
+    height: 50px;
+    background: #e74c3c;
+    -webkit-border-top-right-radius: 24px;
+    -moz-border-radius-topright: 24px;
+    border-top-right-radius: 24px;
+    -webkit-border-top-left-radius: 24px;
+    -moz-border-radius-topleft: 24px;
+    border-top-left-radius: 24px;
+	width: 100%;
+    text-align: center;
+    font-size: 24px;
+    color: #FFF;
+	line-height: 50px
+    }
+
+.calendar-num-day {
+    height: 150px;
+    font-size: 111px;
+    color: #333;
+    text-align: center
+    }
+
+.calendar-header:before {
+    background: #333;
+    height: 1px;
+    width: 1px;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    padding: 4px
+    }
+
+.calendar-header:after {
+    background: #333;
+    height: 1px;
+    width: 1px;
+    content: "";
+    display: block;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    padding: 4px
+    }
 
 
 

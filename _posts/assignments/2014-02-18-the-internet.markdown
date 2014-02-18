@@ -4,10 +4,6 @@ title:  "Internet Lab"
 date:   2014-02-18 00:00:00
 categories: assignment
 due-date: "Friday, Feb. 20"
-
-attachments:
-- name: "World Map"
-  filename: "map.jpg"
 ---
 
 Makes about 15 small cookies.
@@ -33,3 +29,35 @@ Makes about 15 small cookies.
 5. Preheat the oven to 180°C.
 6. Roll the dough out flat and use a shaped cutter to make as many cookies as you like.
 7. Transfer the cookies to a tray and bake in the oven for 15 minutes. Lightly dust the cookies with icing sugar
+
+
+<table>
+  <thead>
+    <tr>
+      <th width="200">Table Header</th>
+      <th>Table Header</th>
+      <th width="150">Table Header</th>
+      <th width="150">Table Header</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Content Goes Here</td>
+      <td>This is longer content Donec id elit non mi porta gravida at eget metus.</td>
+      <td>Content Goes Here</td>
+      <td>Content Goes Here</td>
+    </tr>
+    <tr>
+      <td>Content Goes Here</td>
+      <td>This is longer Content Goes Here Donec id elit non mi porta gravida at eget metus.</td>
+      <td>Content Goes Here</td>
+      <td>Content Goes Here</td>
+    </tr>
+    <tr>
+      <td>Content Goes Here</td>
+      <td>This is longer Content Goes Here Donec id elit non mi porta gravida at eget metus.</td>
+      <td>Content Goes Here</td>
+      <td>Content Goes Here</td>
+    </tr>
+  </tbody>
+</table>
