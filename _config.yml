@@ -2,7 +2,7 @@ name: "Mr. Shafiei's Classes"
 markdown: redcarpet
 pygments: true
 permalink: pretty
-baseurl: /classes
+baseurl: /:categories/:title
 
 
 
