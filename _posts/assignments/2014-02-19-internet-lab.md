@@ -48,15 +48,15 @@ Throughout the introduction, please make note of the following vocabulary words:
 
 1.  IP Address
 2.  DNS
-3.  Client
-4.  Server
+3.  Network
 
 
 ### Questions ###
 
 Answer these questions before completing this lab.
 
-1.  
+1.  What is a network?
+2.  What do you think happens when you connect to a website?
 
 
 ***
@@ -65,6 +65,17 @@ Answer these questions before completing this lab.
 ## Lab ##
 
 ### Part 1 ###
+*Work with a partner*
+
+Sit at computers that are adjacent to each other.  INDIVIDUALLY (on separate computers), use the <kbd>traceroute</kbd> program and run a trace on <kbd>google.com</kbd> (or another website you both agree on).  Record your results in the chart.
+
+(You should end up with 2 charts).
+
+
+### Part 2 ###
+
+
+
 
 
 
@@ -72,4 +83,3 @@ Answer these questions before completing this lab.
 
 *Complete these questions after you've completed the lab*
 
-1.  Question 1
