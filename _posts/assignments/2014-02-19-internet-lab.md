@@ -20,7 +20,7 @@ We use the internet everyday, but how does it actually work?
 
 ## Group Size ##
 
-This activity is intended for groups of 2
+This activity may be done alone or with a partner.
 
 ## Time to Complete ##
 
@@ -43,6 +43,11 @@ A brief lecture and demonstration will introduce you to some key concepts you wi
 
 <i class="fi-video">[video link]</i>
 
+<video width="320" height="240" controls>
+  <source src="{{site.baseurl}}/media/test.m4v" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ### Vocabulary ###
 
 Throughout the introduction, please make note of the following vocabulary words:
@@ -52,30 +57,22 @@ Throughout the introduction, please make note of the following vocabulary words:
 3.  Network
 
 
-### Questions ###
-
-Answer these questions before completing this lab.
-
-1.  What is a network?
-2.  What do you think happens when you connect to a website?
-
-
 ***
 
 
 ## Lab ##
 
 ### Part 1 ###
-*Work with a partner*
 
-Sit at computers that are adjacent to each other.  INDIVIDUALLY (on separate computers), use the <kbd>traceroute</kbd> program and run a trace on <kbd>google.com</kbd> (or another website you both agree on).  Record your results in the chart.
+Use the <kbd>traceroute</kbd> program and run a trace on <kbd>google.com</kbd> (or another website).  You should see a screen that looks like this:
 
-(You should end up with 2 charts).
+[SCREEN SHOT]
 
+You will need to collect the information about each *hop* 
 
 ### Part 2 ###
 
-
+[IP Address Mapper](http://addgadgets.com/ipaddress/index.php)
 
 
 
@@ -83,4 +80,13 @@ Sit at computers that are adjacent to each other.  INDIVIDUALLY (on separate com
 ## Post-Lab Questions ##
 
 *Complete these questions after you've completed the lab*
+
+1.  Which website (or computer) did you trace?
+2.  Where was that final computer located (what was the last hop on your route)?
+3.  Did your computer make a direct connection to that website (in other words, did it only take one single hop)?
+4.  How many hops did it take to connect to the website?
+5.  Compare your results to another person.  Were your routes the same or different?
+6.  Based on your observations, make a conclusion about how the internet is built.
+7.  Were you surprised that you could determine the location of a computer on the internet?  Why or why not?
+
 
