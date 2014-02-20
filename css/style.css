@@ -24,6 +24,9 @@ body {
 	background: #fff;
 }
 
+kbd {
+    background-color:rgba(255, 245, 0, 0.87);
+}
 
 /* ------------- layout ------------------ */
 
