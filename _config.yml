@@ -3,7 +3,6 @@ markdown: redcarpet
 pygments: true
 baseurl: /classes
 permalink: pretty
-auto: true
 
 
 
