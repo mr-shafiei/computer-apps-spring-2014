@@ -1,6 +1,6 @@
 ---
 layout: full-width
-title:  ""
+title:  "Friday, Feb. 21, 2014"
 date:   2014-02-21 00:00:00
 categories: calendar
 excerpt: Digital Portfolios, Begin MS Word Project
