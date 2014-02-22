@@ -3,7 +3,71 @@ layout: full-width
 title: "Home"
 ---
 
+<h2>This Week's Classes</h2>
+<div class="panel">
+<ul class="small-block-grid-1 medium-block-grid-5 large-block-grid-5">
+        {% assign no_post = true %}
+        {% for post in site.categories['calendar'] reversed %}
+            {% assign current_post = post.date | date: "%U" %}
+            {% assign current_time = site.time | date: "%U" %}
+            {% assign current_post_day = post.date | date: "%w" %}
+    {% if current_post == current_time %}
+    
+    
+    {% if current_post_day == "1" %}
+    <li class="th">
+        <h4>{{ post.date | date: "%a" }}</h4>
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p> 
+    </li>
+    {% endif %}
+    
+    {% if current_post_day == "2" %}
+    <li class="th">
+    <h4>{{ post.date | date: "%a" }}</h4>
 
-<h1>Welcome to Mr. Shafiei's Classes for 2013-2014</h1>
-
-<a href="media/flappy-birds.pdf">Flappy Birds Article</a>
+        
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p>
+        
+    </li>
+    {% endif %}
+    
+    {% if current_post_day == "3" %}
+    <li class="th">
+    <h4>{{ post.date | date: "%a" }}</h4>
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p>
+        
+    </li>
+    {% endif %}
+    
+    {% if current_post_day == "4" %}
+    <li class="th">
+    <h4>{{ post.date | date: "%a" }}</h4>
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p>
+        
+    </li>
+    {% endif %}
+    
+    {% if current_post_day == "5" %}
+    <li class="th">
+    <h4>{{ post.date | date: "%a" }}</h4>
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p>
+        
+    </li>
+    {% endif %}
+    
+    {% endif %}
+    {% endfor %}
+    
+  
+</ul>
+    </div>
