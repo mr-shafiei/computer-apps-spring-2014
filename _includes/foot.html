@@ -8,6 +8,17 @@
 <script>
   $(document).foundation();
 </script>
+<script>
+
+$(document.links).filter(function() {
+    return this.hostname != window.location.hostname;
+}).attr('target', '_blank');
+
+$(document.links).filter(function() {
+    return this.hostname != window.location.hostname;
+}).after('<i class="fi-link" style="margin-left:5px;"></i>');
+
+</script>
 
 </body>
 </html>
