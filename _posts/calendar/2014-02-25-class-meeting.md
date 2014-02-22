@@ -7,3 +7,13 @@ excerpt: MS Word, Grades, Photoshop Intro
 
 ## Announcements ##
 
+* I will be in and out of the classroom this week because of the Black History assembly.
+* You will still be responsible for the work!
+
+
+## Agenda ##
+1.  Professional Email #2
+2.  MS Word & Dropbox Continuation
+3.  Intro to Photoshop Labs
+
+
