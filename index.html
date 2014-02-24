@@ -7,7 +7,7 @@ title: "Home"
 
 <h2>This Week's Classes</h2>
 <div class="panel">
-<ul class="small-block-grid-1 medium-block-grid-5 large-block-grid-5">
+<ul class="small-block-grid-1 medium-block-grid-5 large-block-grid-5" data-equalizer>
         {% assign no_post = true %}
         {% for post in site.categories['calendar'] reversed %}
             {% assign current_post = post.date | date: "%U" %}
@@ -17,7 +17,7 @@ title: "Home"
     
     
     {% if current_post_day == "1" %}
-    <li class="th">
+    <li class="th" data-equalizer-watch>
         <h4>{{ post.date | date: "%a" }}</h4>
         <h6><small>{{post.date | date_to_string }}</small></h6>
         <hr>
@@ -26,7 +26,7 @@ title: "Home"
     {% endif %}
     
     {% if current_post_day == "2" %}
-    <li class="th">
+    <li class="th" data-equalizer-watch>
     <h4>{{ post.date | date: "%a" }}</h4>
 
         
@@ -38,7 +38,7 @@ title: "Home"
     {% endif %}
     
     {% if current_post_day == "3" %}
-    <li class="th">
+    <li class="th" data-equalizer-watch>
     <h4>{{ post.date | date: "%a" }}</h4>
         <h6><small>{{post.date | date_to_string }}</small></h6>
         <hr>
@@ -48,7 +48,7 @@ title: "Home"
     {% endif %}
     
     {% if current_post_day == "4" %}
-    <li class="th">
+    <li class="th" data-equalizer-watch>
     <h4>{{ post.date | date: "%a" }}</h4>
         <h6><small>{{post.date | date_to_string }}</small></h6>
         <hr>
@@ -58,7 +58,7 @@ title: "Home"
     {% endif %}
     
     {% if current_post_day == "5" %}
-    <li class="th">
+    <li class="th" data-equalizer-watch>
     <h4>{{ post.date | date: "%a" }}</h4>
         <h6><small>{{post.date | date_to_string }}</small></h6>
         <hr>
