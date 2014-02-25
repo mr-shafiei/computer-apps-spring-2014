@@ -14,9 +14,6 @@ category: Homework
 
 Adobe Photoshop is the standard professional tool used for image manipulation.  It can be daunting to a new user because it has so many features.  By completing the projects in this lab, you will explore the key features available in this program.
 
-## Lab Goals ##
-
-
 
 ## Time to Complete ##
 
@@ -39,7 +36,24 @@ You will need to work steadily on the projects that are a part of this lab in or
 
 ## Lab ##
 
-### Part 1 ###
+### Part 1:  Cropping, Resizing and Saving ###
+#### Goals: ####
+* Become familiar with the Photoshop environment
+* Use the <kbd>crop tool</kbd> to trim an image down to the desired focus
+* Use the <kbd>resize</kbd> function to make an image smaller
+* Save an image as a JPEG
+
+#### Files you will need ####
+You may use my picture, or a picture of your choice for this assignment.
+
+#### How to Turn This In ####
+Please upload this assignment to your [DropBox](http://DropBox.com) and give it the name <kbd>Photoshop-Project-1.jpg</kbd>
+
+
+#### Video Demo ####
+[Posted Soon!]
+
+
 
 
 ## Post-Lab Questions ##
