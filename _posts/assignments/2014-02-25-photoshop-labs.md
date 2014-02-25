@@ -5,6 +5,7 @@ tags: lab, photoshop
 excerpt: Photoshop Lab 1
 due-date: 2014-03-03
 points: 200
+category: Homework
 ---
 
 # Photoshop Lab 1 #

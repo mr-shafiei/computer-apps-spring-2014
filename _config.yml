@@ -23,3 +23,12 @@ navigation:
 - title: Blog
   text: Blog
   url: /pages/blog
+  
+- title: Resources
+  text: Resources
+  url: /pages/resources
+  
+- title: Grades
+  text: Grades
+  url: /pages/grades
+

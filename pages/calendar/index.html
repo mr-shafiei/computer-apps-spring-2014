@@ -30,7 +30,7 @@ title: Calendar
 
     {% for post in site.categories['calendar'] reversed %}
   <dd>
-    <a href="#panel{{forloop.index}}">{{post.date | date_to_string }} <small class="label right">{{ post.date | date: "%a" }}</small> </a>
+    <a href="#panel{{forloop.index}}">{{post.date | date_to_string }} <small class="label right">{{ post.date | date: "%a" }}</small></a>
     <div id="panel{{forloop.index}}" class="content">
       <p><a href="{{site.baseurl}}{{ post.url }}" style="background:none;">{{post.excerpt}}</a></p>
     </div>
