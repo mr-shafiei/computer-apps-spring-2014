@@ -10,7 +10,7 @@ grade-category: Homework
 
 
 
-# Professional Email #2 #
+# Professional Email 2 #
 
 ## Instructions ##
 
