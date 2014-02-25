@@ -7,7 +7,6 @@ due-date: 2014-03-03
 points: 200
 grade-category: Homework
 ---
-
 # Photoshop Lab 2 #
 
 ## Overview ##

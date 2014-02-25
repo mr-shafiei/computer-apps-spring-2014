@@ -84,6 +84,14 @@ kbd {
 	display: none;
 }
 
+#overview-box {
+    width:30%;
+}
+
+#due-date {
+    color:#fff;
+    padding:5px;
+}
 
 
 
