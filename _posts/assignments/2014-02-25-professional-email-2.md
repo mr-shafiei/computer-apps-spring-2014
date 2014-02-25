@@ -7,9 +7,6 @@ due-date: 2014-02-28
 points: 10
 grade-category: Homework
 ---
-
-
-
 # Professional Email 2 #
 
 ## Instructions ##
@@ -17,6 +14,10 @@ grade-category: Homework
 For this assignment, I would like for you to send me an short, formal email making a request for something.  You may follow the template below, but you do not need to stick to it exactly.
 
 Key structural words have been <kbd>highlighted.</kbd>
+
+My email address: <span class="label">chec.shafiei@gmail.com</span>
+
+
 
 Possible ideas:
 
