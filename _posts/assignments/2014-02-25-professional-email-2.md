@@ -19,6 +19,7 @@ For this assignment, I would like for you to send me an short, formal email maki
 Key structural words have been <kbd>highlighted.</kbd>
 
 Possible ideas:
+
 * Request a change to a grade
 * Ask to be excused from a class
 * Ask for an assignment extension
