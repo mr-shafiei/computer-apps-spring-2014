@@ -14,6 +14,6 @@ excerpt: MS Word, Grades, Photoshop Intro
 ## Agenda ##
 1.  [Professional Email #2](http://thebobak.github.io/classes/assignment/2014/02/25/professional-email-2/)
 2.  MS Word & Dropbox Continuation
-3.  [Intro to Photoshop Labs](http://thebobak.github.io/classes/assignment/2014/02/25/photoshop-labs/)
+3.  [Intro to Photoshop Labs](http://thebobak.github.io/classes/assignment/2014/02/25/photoshop-lab-1/)
 
 
