@@ -8,8 +8,18 @@ title: Syllabus
 ## Course Description ##
 Computer Applications is designed to develop skills in some of today’s most widely used applications including Microsoft Office and Adobe Creative Suite.
 
+## Course Objectives ##
+* Understand key computer hardware
+* Use Adobe Creative Suite to create and manipulate images
+* Use MS Office to create and organize information
+* Use email and online communication with fluency
+* Publish a webpage
+
+
 ## Required Materials ##
-* Google account (for Google Drive)
+* Email account
+* [Dropbox](http://dropbox.com) Account (for portfolio)
+* [Cloud 9](http://c9.io) Account (for web design)
 * Notebook
 * Pen/Pencil
 * Access to the Internet after school
@@ -26,11 +36,3 @@ Roughly 1/3 of your grade (equivalent to a GRASP) will be based on your *profess
 ## Late Work ##
 Late assignments will be accepted one day late for reduced credit.  After that, they will no longer be accepted.  I've found that this policy makes class better for everyone.
 
-
-
-
-
-
-
-________________
-Parent/Guardian Signature
