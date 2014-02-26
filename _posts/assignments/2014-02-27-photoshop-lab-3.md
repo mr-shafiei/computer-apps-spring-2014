@@ -60,23 +60,16 @@ You may use my picture, or a picture of your choice for this assignment.
 
 
 #### How to Turn This In ####
-Please upload this assignment to your [DropBox](http://DropBox.com) and give it the name <kbd>Photoshop-Project-2.jpg</kbd>
+Please upload this assignment to your [DropBox](http://DropBox.com) and give it the name <kbd>Photoshop-Project-3.psd</kbd>
 
 
 #### Video Demo ####
-[Posted Soon!]
+
+<object type="application/x-shockwave-flash" width="640" height="400" data="http://www.flickr.com/apps/video/stewart.swf?v=141178" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=c1c098c78f&photo_id=11435893815&flickr_show_info_box=true"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=141178"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=141178" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=c1c098c78f&photo_id=11435893815&flickr_show_info_box=true" height="400" width="640"></embed></object>
 
 
-#### Table of Tools ####
 
-##### Clone Stamp #####
 
-_Hint:_ You have to <kbd>ALT</kbd>+<kbd>CLICK</kbd> (hold down the <kbd>ALT</kbd> key, then click on the mouse) in order to choose the spot you wish to copy.
+#### Tools Used ####
 
-<img src="https://dl.dropboxusercontent.com/u/3135266/classes/Photoshop%20Projects/website/tool-window/PS-Clone-Stamp.jpg">
 
-##### Healing Brush #####
-
-_Hint:_ You have to <kbd>ALT</kbd>+<kbd>CLICK</kbd> (hold down the <kbd>ALT</kbd> key, then click on the mouse) in order to choose the spot you wish to copy.
-
-<img src="https://dl.dropboxusercontent.com/u/3135266/classes/Photoshop%20Projects/website/tool-window/PS-Spot-Healing-Brush.jpg">
