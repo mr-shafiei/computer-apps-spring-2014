@@ -15,7 +15,7 @@ excerpt: Photoshop Projects
 
 ## Agenda ##
 
-1.  Begin Photoshop Labs 2 - 4
+1.  [Begin Photoshop Labs 2 - 4](http://thebobak.github.io/classes/assignment/2014/02/27/photoshop-lab-2/) (click the link)
 
 
 ## Reminder ##
