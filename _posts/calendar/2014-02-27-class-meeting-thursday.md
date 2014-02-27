@@ -16,7 +16,6 @@ excerpt: Photoshop Projects
 ## Agenda ##
 
 1.  Begin Photoshop Labs 2 - 4
-2.  Introduce Final Photoshop Project (GRASP)
 
 
 ## Reminder ##

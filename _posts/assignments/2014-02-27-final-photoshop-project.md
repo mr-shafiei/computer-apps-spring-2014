@@ -2,12 +2,12 @@
 layout: full-width
 categories: assignment
 tags: lab, photoshop
-excerpt: Photoshop Lab 3
-due-date: 2014-03-03
+excerpt: Demonstrate your understanding of Photoshop
+due-date: 2014-03-10
 points: 200
-grade-category: Homework
+grade-category: Mid Term Exam
 ---
-# Photoshop Lab 3 #
+# Final Photoshop Project #
 
 ## Overview ##
 
