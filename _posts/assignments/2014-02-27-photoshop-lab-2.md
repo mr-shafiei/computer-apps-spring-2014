@@ -7,7 +7,7 @@ due-date: 2014-03-03
 points: 200
 grade-category: Homework
 ---
-# Photoshop Lab 3 #
+# Photoshop Lab 2 #
 
 ## Overview ##
 
@@ -35,7 +35,7 @@ You will need to work steadily on the projects that are a part of this lab in or
 
 ## Lab ##
 
-### Part 3:  Combining Images ###
+### Part 2:  Combining Images ###
 #### Goals: ####
 * Combine 2 or more pictures together
 * Become familiar with <kbd>layers</kbd>
