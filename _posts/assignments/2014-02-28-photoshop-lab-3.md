@@ -41,17 +41,6 @@ You will need to work steadily on the projects that are a part of this lab in or
 
 ## Lab ##
 
-### Part 1:  Cropping, Resizing and Saving ###
-#### Goals: ####
-* Become familiar with the Photoshop environment
-* Use the <kbd>crop tool</kbd> to trim an image down to the desired focus
-* Use the <kbd>resize</kbd> function to make an image smaller
-* Save an image as a JPEG
-
-#### Files you will need ####
-You may use my picture, or a picture of your choice for this assignment.
-[Download the Picture](https://dl.dropboxusercontent.com/u/3135266/classes/Photoshop%20Projects/photoshop-project-1.jpg)
-
 
 #### How to Turn This In ####
 Please upload this assignment to your [DropBox](http://DropBox.com) and give it the name <kbd>Photoshop-Project-1.jpg</kbd>
