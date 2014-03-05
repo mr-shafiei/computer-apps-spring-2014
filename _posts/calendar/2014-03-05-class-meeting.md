@@ -20,7 +20,7 @@ By the end of class, you should be able to demonstrate the use of some critical 
 0.  [Email Assignment #3](http://thebobak.github.io/classes/assignment/2014/03/05/professional-email-3/)
 1.  Read basic [HTML chapter](https://dl.dropboxusercontent.com/u/3135266/classes/Articles/htmlandcssbook-sample.pdf)
 2.  Create [Cloud 9 Accounts](http://c9.io)
-3.  Download [Web Assignment 1](https://dl.dropboxusercontent.com/u/3135266/classes/Assignments/Web/Assignment%201/index.html)
+3.  Download [Web Assignment 1](https://dl.dropboxusercontent.com/u/3135266/classes/Assignments/Web/Assignment%201/oscars.txt)
 4.  Interactive Demo (start assignment 1)
 5.  Pair Programming (finish assignment 1)
 
