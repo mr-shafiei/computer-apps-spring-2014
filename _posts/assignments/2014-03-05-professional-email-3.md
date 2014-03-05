@@ -15,6 +15,8 @@ I would like for you to write a short review of this website, mimicking the temp
 
 I have <kbd>highlighted</kbd> some key structural words you should likely keep, but don't have to.
 
+Email to <span class="label">chec.shafiei@gmail.com</span>
+
 
 ## The Template ##
 <div class="panel">
