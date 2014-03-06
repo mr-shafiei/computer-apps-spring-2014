@@ -56,10 +56,18 @@ As a class, we will import our content:  The 2014 Oscar Winners:
         
 4.  We will then add HTML code for Paragraphs, Headings and Emphasis to one or two of the sections.
     
-         <p>...</p>        Paragraphs
-         <h1>...</h1>      Heading Level 1
-         <h2>...</h2>      Heading Level 2
-         <em>...</em>      Emphasis
+         <p>...</p>                Paragraphs
+         <h1>...</h1>              Heading Level 1
+         <h2>...</h2>              Heading Level 2
+         <em>...</em>              Emphasis (italics)
+         <strong>...</strong>      Strong text (bold)
+         <ul>                      Lists
+             <li>Bullet Point 1</li>
+             <li>Bullet Point 2</li>
+         </ul>
+         <!-- COMMENTS are IGNORED by the computer -->
+         <!-- But YOU can see them -->
+         
          
          
 
