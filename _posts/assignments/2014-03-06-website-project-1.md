@@ -13,6 +13,7 @@ grade-category: Homework
 
 Every website you visit is ultimately composed of HTML code.  Understanding the structure behind this language will allow you to not only create your own websites, but make better use of web-building tools.
 
+<!-- SECRET MESSAGE FROM MR. SHAFIEI:  Tomorrow, I will bring a snack -->
 
 ## Goals ##
 
