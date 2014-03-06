@@ -1,6 +1,8 @@
 ---
 layout: full-width
 categories: calendar
-excerpt: Photoshop Projects
+excerpt: Continue Web Design
 ---
 # {{page.date | date_to_string }} #
+
+[Agenda to be posted]
