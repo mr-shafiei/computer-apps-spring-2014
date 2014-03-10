@@ -3,7 +3,7 @@ layout: full-width
 categories: assignment
 tags: HTML, web, project
 excerpt: Website Project 2 - Evaluate a Website
-due-date: 2014-03-07
+due-date: 2014-03-11
 points: 10
 grade-category: Homework
 ---
