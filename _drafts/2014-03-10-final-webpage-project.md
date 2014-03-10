@@ -42,6 +42,9 @@ grade-category: Homework
 
 ## Steps to Completion ##
 
-### Step 1:  Create a new workspace on Cloud9 ###
+### Step 1:  Identify the Purpose of your Website ###
 
-### Step 2:  Send your URL to Mr. Shafiei in an email ###
+For most practical web design, form follows function.  In other words, your site must 
+
+### Step 2:  Create a blueprint
+
