@@ -29,7 +29,7 @@ For this project, you will use HTML/CSS and Adobe Photoshop to create a <span da
     </tr>
         <tr>
         <td>ROLE</td>
-        <td>...</td>
+        <td>You are a </td>
     </tr>
         <tr>
         <td>AUDIENCE</td>

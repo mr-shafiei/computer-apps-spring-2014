@@ -22,8 +22,7 @@ In an email to <span class="label">chec.shafiei@gmail.com</span>, answer the fol
 
 ### Questions ###
 0.  Which site did you evaluate?
-1.  Why is the site needed?
-2.  Who is the audience?
-3.  What are the key reasons users may have for visiting the site?
-4.  What should visitors of the site come away with?
-5.  How useful is the site's design?
+1.  Who is the audience?
+2.  What are the key reasons users may have for visiting the site?
+3.  What should visitors of the site come away with?
+4.  What do you like about the design and why do you like it?
