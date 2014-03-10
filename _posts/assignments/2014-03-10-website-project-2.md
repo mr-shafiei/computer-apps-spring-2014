@@ -26,3 +26,4 @@ In an email to <span class="label">chec.shafiei@gmail.com</span>, answer the fol
 2.  Who is the audience?
 3.  What are the key reasons users may have for visiting the site?
 4.  What should visitors of the site come away with?
+5.  How useful is the site's design?
