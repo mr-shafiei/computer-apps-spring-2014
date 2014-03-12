@@ -42,9 +42,7 @@ Choose at least 2 items to try on your own.  I recommend working in pairs at fir
 
 ### Step 4:  Questions (Answer and upload to DropBox)
 
-I have put a copy of the questions in your DropBox already (it's magic!).
-
-If for some reason you can't find it, [download a copy](https://dl.dropboxusercontent.com/u/3135266/classes/Assignments/Web/project-4-questions.docx).
+[Download the Questions](https://dl.dropboxusercontent.com/u/3135266/classes/Assignments/Web/project-4-questions.docx).
 
 
 
