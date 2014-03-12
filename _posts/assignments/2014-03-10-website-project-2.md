@@ -13,16 +13,13 @@ grade-category: Homework
 
 ## Goals ##
 
-*  By the end of this project, you and a group will have evaluated a website based upon the questions below
+*  By the end of this project, you and a group will have evaluated a website (based upon the questions below) in order to begin preparing to design your own.
 
 
 ## Instructions ##
 
-In an email to <span class="label">chec.shafiei@gmail.com</span>, answer the following questions about a website of your choice:
+With a partner, choose a website you would like to evaluate.  Answer the questions.
 
 ### Questions ###
-0.  Which site did you evaluate?
-1.  Who is the audience?
-2.  What are the key reasons users may have for visiting the site?
-3.  What should visitors of the site come away with?
-4.  What do you like about the design and why do you like it?
+
+A Word document will be placed into your [DropBox](http://dropbox.com) for you to download, complete and upload back to DropBox.

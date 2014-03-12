@@ -5,4 +5,14 @@ excerpt: Continue Web Design
 ---
 # {{page.date | date_to_string }} #
 
-[Agenda to be posted]
+## Agenda ##
+
+### Periods 1 and 2: ###
+
+Web Project 4
+
+### Period 4:  ###
+
+Web Project 2
+
+
