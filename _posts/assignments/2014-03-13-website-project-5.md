@@ -28,7 +28,7 @@ Demonstrate an understanding of CSS by adding style elements to a webpage.
 
 1.  Click <kbd>Create New Workspace</kbd>
 2.  Then, choose <kbd>Clone From URL</kbd>
-3.  Copy and paste the following URL into the box:  <span class="label callout">http://github.com/thebobak/Web-Project-5</span>
+3.  Copy and paste the following URL into the box:  <span class="label">http://github.com/thebobak/Web-Project-5</span>
 4.  Choose <kbd>HTML</kbd>
 5.  Click <kbd>Create</kbd>
 
