@@ -2,7 +2,7 @@
 layout: full-width
 categories: assignment
 tags: HTML, web, project
-excerpt: Website Project 5 - Show your Style: CSS
+excerpt: Website Project 5 - Show your Style
 due-date: 2014-03-17
 points: 10
 grade-category: Homework
