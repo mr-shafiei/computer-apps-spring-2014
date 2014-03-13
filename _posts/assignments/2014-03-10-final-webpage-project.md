@@ -106,6 +106,6 @@ Mr. Shafiei will provide you with several basic HTML templates to get you starte
 
 Do you know how Facebook always changes how their site looks?  Or, how all of a sudden one day Google has moved all of their buttons?
 
-[Some Link]({% 2014-03-05-professional-email-3 %})
+[Some Link]({% post_url /assignments/2014-03-05-professional-email-3 %})
 
 
