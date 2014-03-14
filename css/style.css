@@ -21,7 +21,8 @@ body {
     font-family: "minion-pro-1","minion-pro-2",Georgia,"Times New Roman",Times,serif;
 	font-size: 15px;
 	line-height: 1.55em;
-	background: #fff; 
+	background: #fff;
+    color:#444;
 }
 
 kbd {
