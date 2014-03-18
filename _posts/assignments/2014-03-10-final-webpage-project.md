@@ -99,7 +99,7 @@ A blueprint is a sketch of how your site is going to look, but more importantly,
 
 Mr. Shafiei will provide you with several basic HTML templates to get you started and to help fill in the gaps in your knowledge.  You are certainly welcome to deviate from them!
 
-[POST PROJECTS TO CLONE HERE]
+Clone templates from:  https://github.com/thebobak/final-project
 
 
 ### Step 4:  Iterate ###
