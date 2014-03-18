@@ -77,7 +77,7 @@ For most practical web design, form follows function.  In other words, your site
 Please answer the following questions (in an email to <span class="label">chec.shafiei@gmail.com</span>):
 
 #### Content ####
-0.  About which 
+0.  What is your site about?
 1.  What content will be needed for the site?
 2.  List the sections and features that will be included
 3. What already exists and what needs to be developed?
@@ -104,7 +104,11 @@ Mr. Shafiei will provide you with several basic HTML templates to get you starte
 
 ### Step 4:  Iterate ###
 
-Do you know how Facebook always changes how their site looks?  Or, how all of a sudden one day Google has moved all of their buttons?
+To iterate means to repeat a process.  If you were chopping carrots, you would finish one and then begin the next.
+
+In the software world, designers and engineers iterate through their code and make small changes each time they pass through.
 
 
+### Step 5:  Present Your Work ###
 
+[Entry Slips Coming Soon]
