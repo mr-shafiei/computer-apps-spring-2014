@@ -22,7 +22,7 @@ For this project, you will use HTML/CSS and Adobe Photoshop to create a <span da
 <table>
     <tr>
         <td>GOAL</td>
-        <td>Create a portfolio website using HTML and CSS</td>
+        <td>Apply your knowledge of basic HTML/CSS in order to create a portfolio website.  Additionally, with guidance, use available resources in order to try and test other tools and techniques.</td>
     </tr>
         <tr>
         <td>ROLE</td>
