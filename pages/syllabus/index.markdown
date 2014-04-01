@@ -36,3 +36,5 @@ Roughly 1/3 of your grade (equivalent to a GRASP) will be based on your *profess
 ## Late Work ##
 Late assignments will be accepted one day late for reduced credit.  After that, they will no longer be accepted.  I've found that this policy makes class better for everyone.
 
+## General Classroom Rules ##
+
