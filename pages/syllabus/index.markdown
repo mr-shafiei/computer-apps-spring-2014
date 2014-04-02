@@ -45,8 +45,20 @@ def show
     format.html # show.html.erb
     format.json { render json: @widget }
   end
-end
 {% endhighlight %}
+
+{% highlight html %}
+<html>
+<head>Hello</head>
+</html>
+{% endhighlight %}
+
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
+
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
 | :------------ |:---------------:| -----:|
