@@ -20,7 +20,7 @@ Computer Applications is designed to develop skills in some of today’s most wi
 * Email account
 * [Dropbox](http://dropbox.com) Account (for portfolio)
 * [Cloud 9](http://c9.io) Account (for web design)
-* Notebook
+* Binder
 * Pen/Pencil
 * Access to the Internet after school
 
@@ -38,5 +38,10 @@ Roughly 1/3 of your grade (equivalent to a GRASP) will be based on your *profess
 Late assignments will be accepted one day late for reduced credit.  After that, they will no longer be accepted.  I've found that this policy makes class better for everyone.
 
 ## General Classroom Rules ##
+
+1.  Clean up after yourself
+2.  Respect the space
+3.  You break it, you buy it
+4.  Use appropriate language and volume
 
 
