@@ -38,3 +38,4 @@ Late assignments will be accepted one day late for reduced credit.  After that, 
 
 ## General Classroom Rules ##
 
+- [ ] Get binder
