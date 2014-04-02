@@ -38,10 +38,18 @@ Late assignments will be accepted one day late for reduced credit.  After that, 
 
 ## General Classroom Rules ##
 
-{% highlight html %}
-
-<html>
-<h1>Hello</h1>
-</html>
-
+{% highlight ruby %}
+def show
+  @widget = Widget(params[:id])
+  respond_to do |format|
+    format.html # show.html.erb
+    format.json { render json: @widget }
+  end
+end
 {% endhighlight %}
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
