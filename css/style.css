@@ -29,6 +29,14 @@ kbd {
     background-color:rgba(255, 245, 0, 0.87);
 }
 
+#container h1,h2,h3,h4,h5,h6 {
+    font-weight:bold;
+}
+
+h2 {
+    font-size:1.8rem;
+}
+
 /* ------------- layout ------------------ */
 
 /* skip navigation for screen readers */
@@ -104,9 +112,9 @@ kbd {
 
 	body {
 		background-color: #000;
-		background-image: url('../img/berlin.jpg');
-        background-size:1500px;
-		background-position: 50% 0;
+		background-image: url('../img/rainy.jpg');
+        background-size:cover;
+		/*background-position: 50% 0; */
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 	}
@@ -273,6 +281,17 @@ kbd {
 
 @media only print {
 
+    #desktop_nav {
+        display:none;
+    }
+    
+    #flag {
+        display:none;
+    }
+
+    #container {
+    border:none;
+}
 }
 
 

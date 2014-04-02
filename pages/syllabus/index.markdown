@@ -28,6 +28,7 @@ Computer Applications is designed to develop skills in some of today’s most wi
 * USB Flash Drive
 
 
+
 ## Professionalism Points ##
 
 Roughly 1/3 of your grade (equivalent to a GRASP) will be based on your *professionalism* in class.  At the beginning of the term, you will start with full points.  Points will be deducted based on behaviors.
@@ -38,30 +39,4 @@ Late assignments will be accepted one day late for reduced credit.  After that, 
 
 ## General Classroom Rules ##
 
-{% highlight ruby %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-{% endhighlight %}
 
-{% highlight html %}
-<html>
-<head>Hello</head>
-</html>
-{% endhighlight %}
-
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
-
-
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
