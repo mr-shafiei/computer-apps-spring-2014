@@ -6,7 +6,7 @@ title: Syllabus
 # Syllabus #
 
 ## Course Description ##
-Computer Applications is designed to develop skills in some of today’s most widely used applications including Microsoft Office and Adobe Creative Suite.
+Computer Applications is a survey course that will cover some fundamental computer concepts and introduce you to several type of applications.
 
 ## Course Objectives ##
 * Understand key computer hardware
@@ -22,11 +22,14 @@ Computer Applications is designed to develop skills in some of today’s most wi
 * [Cloud 9](http://c9.io) Account (for web design)
 * Binder
 * Pen/Pencil
-* Access to the Internet after school
 
 ## Optional Materials ##
 * USB Flash Drive
 
+
+## Books ##
+
+There is no textbook for this class (it would be obsolete by the time it was printed anyway), but we will be reading from several sources throughout the term.  These readings will be distributed electronically and/or on paper.
 
 
 ## Professionalism Points ##
