@@ -3,7 +3,7 @@ layout: full-width
 categories: assignment
 tags: Project
 excerpt: Computer Shopping Project
-due-date: 2014-05-09
+due-date: 2014-05-12
 points: 10
 grade-category: Homework
 ---
@@ -15,10 +15,22 @@ grade-category: Homework
 
 Apply your knowledge of computer hardware in order to purchase a new computer system based on a set of requirements.
 
+---
 
 ## Steps to Completion ##
 
 ### Step 1:  Conduct Research and Choose a Computer ###
+
+You will be assigned a scenario which contains a budget and specifications for your computer system.
+
+While there are no restrictions for what brands or stores you may use, here are some suggestions:
+
+http://amazon.com
+http://apple.com
+http://dell.com
+http://bestbuy.com
+http://newegg.com
+
 
 ### Step 1A:  Compare and Contrast ###
 
