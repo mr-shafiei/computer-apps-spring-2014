@@ -11,7 +11,14 @@ grade-category: Homework
 
 ## Project Goals ##
 
-In this project, you will apply your knowledge of computer parts in order to compare and contrast different computers.
+In this project, you will apply your knowledge of computer hardware in order to compare and contrast different computers.
+
+Specifically, you will focus on:
+
+- Processor
+- Memory
+- Storage
+- Graphics
 
 Additionally, you will gain practice with internet research, spreadsheets and Dropbox.
 
