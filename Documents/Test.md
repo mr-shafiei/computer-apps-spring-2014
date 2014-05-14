@@ -1,4 +1,7 @@
-You are looking at a new laptop and your main concern is battery life.  Should you get a laptop with a hard disk drive or a flash drive?  Please explain why.
+You are shopping for a new laptop and your main concern is longer battery life.  Should you get a laptop with a hard disk drive or a flash drive?  Please explain why.
+
+
+Usted está comprando un nuevo ordenador portátil y su principal preocupación es la vida de la batería. En caso de obtener un ordenador portátil con una unidad de disco duro o una unidad flash? Por favor, explique por qué.
 
 
 
@@ -35,6 +38,12 @@ Translate this ASCII message:
 01000011 01001000 01000101 01000011
 
 
+
+
+Which computer's processor has a faster clock speed?
+
+
+Why is a 4-core processor more powerful than a 2-core processor?
 
 
 
