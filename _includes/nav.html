@@ -1,7 +1,7 @@
 {% assign current_url = page.url | remove: '/' %}
 {% assign navigation_url = node.url | remove: '/' %}
 	<ul class="nav">
-	<li><a href="{{ site.baseurl }}" class="site_name">{{ site.name }}</a></li>
+	<li><a href="/" class="site_name">{{ site.name }}</a></li>
     {% for link in site.navigation %}
     <li {% if link.url contains page.url | remove: '/' %}class="current"{% endif %}>
        <a href="{{site.baseurl}}{{link.url}}" title="{{link.title}}">{{link.text}}</a></li>
