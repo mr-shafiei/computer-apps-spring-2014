@@ -5,7 +5,7 @@ redcarpet:
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 highlighter: pygments
 pygments: true
-baseurl:
+baseurl: ''
 permalink: pretty
 kramdown:
     input: GFM
