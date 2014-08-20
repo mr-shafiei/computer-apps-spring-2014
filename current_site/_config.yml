@@ -5,7 +5,7 @@ redcarpet:
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 highlighter: pygments
 pygments: true
-baseurl:  'current_site'
+baseurl:  'http://mrshafiei.com/current_site'
 permalink: pretty
 kramdown:
     input: GFM
