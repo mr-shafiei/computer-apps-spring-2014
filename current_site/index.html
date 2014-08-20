@@ -1,0 +1,87 @@
+---
+layout: full-width
+title: "Home"
+---
+<div class="panel">
+<h1>Pair Programming:</h1>
+<img src="img/pairs.gif">
+</div>
+
+<div class="panel">
+<h1>App Inventor Resources:</h1>
+<p><a href="http://appinventor.mit.edu/explore/ai2/beginner-videos.html" target="_BLANK">Projects 1-4 Instructions and Videos</a></p>
+<p><a href="http://appinventor.mit.edu/explore/ai2/support/blocks.html">Documentation (details about different code blocks)</a></p>
+<p><a href="media">Download the Android Emulator</a></p>
+
+</div>
+
+
+
+<h2>This Week's Classes</h2>
+<div id="home-page-calendar">
+<ul class="small-block-grid-1 medium-block-grid-5 large-block-grid-5" data-equalizer>
+        {% assign no_post = true %}
+        {% for post in site.categories['calendar'] reversed %}
+            {% assign current_post = post.date | date: "%U" %}
+            {% assign current_time = site.time | date: "%U" %}
+            {% assign current_post_day = post.date | date: "%w" %}
+    {% if current_post == current_time %}
+    
+    
+    {% if current_post_day == "1" %}
+    <li class="th" data-equalizer-watch>
+        <h4>{{ post.date | date: "%a" }}</h4>
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p> 
+    </li>
+    {% endif %}
+    
+    {% if current_post_day == "2" %}
+    <li class="th" data-equalizer-watch>
+    <h4>{{ post.date | date: "%a" }}</h4>
+
+        
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p>
+        
+    </li>
+    {% endif %}
+    
+    {% if current_post_day == "3" %}
+    <li class="th" data-equalizer-watch>
+    <h4>{{ post.date | date: "%a" }}</h4>
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p>
+        
+    </li>
+    {% endif %}
+    
+    {% if current_post_day == "4" %}
+    <li class="th" data-equalizer-watch>
+    <h4>{{ post.date | date: "%a" }}</h4>
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p>
+        
+    </li>
+    {% endif %}
+    
+    {% if current_post_day == "5" %}
+    <li class="th" data-equalizer-watch>
+    <h4>{{ post.date | date: "%a" }}</h4>
+        <h6><small>{{post.date | date_to_string }}</small></h6>
+        <hr>
+        <p><a href="{{site.baseurl}}{{ post.url }}">{{post.excerpt}}</a></p>
+        
+    </li>
+    {% endif %}
+    
+    {% endif %}
+    {% endfor %}
+    
+  
+</ul>
+    </div>
