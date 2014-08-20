@@ -1,0 +1,298 @@
+#flag { display:none;}
+
+
+/* ------------- setup ------------------ */
+/* we are using a more intuitive box model
+ see http://paulirish.com/2012/box-sizing-border-box-ftw */
+* {
+	box-sizing: border-box;
+}
+
+/* responsive images */
+img {
+	max-width: 100%;
+}
+
+
+/* ------------- typography ------------------ */
+
+body {
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Verdana,sans-serif;
+    font-family: "minion-pro-1","minion-pro-2",Georgia,"Times New Roman",Times,serif;
+	font-size: 15px;
+	line-height: 1.55em;
+	background: #fff;
+    color:#444;
+}
+
+kbd {
+    background-color:rgba(255, 245, 0, 0.87);
+}
+
+#container h1,h2,h3,h4,h5,h6 {
+    font-weight:bold;
+}
+
+h2 {
+    font-size:1.8rem;
+}
+
+/* ------------- layout ------------------ */
+
+/* skip navigation for screen readers */
+#skip {
+	position: absolute;
+	left: -9000px;
+}
+
+#container {
+	margin-top: 0;
+	margin-left: auto; 
+	margin-right: auto;
+	margin-bottom: 4em;
+	width: 80%;
+	max-width: 960px;
+	padding: 2em 2em 3em 2em;
+	border: 1px solid #ccc;
+	background: #fff;
+    min-height:100%;
+}
+
+#desktop_nav {
+	width: 100%;
+}
+
+#flag {
+	margin-top: 3em;
+	width: 100%;
+}
+
+#content {
+	float: left;
+	width: 66.666%;
+	margin-top: 3em;
+}
+
+#sidebar {
+	float: left;
+	width: 33.333%;
+	margin-top: 3em;
+	padding: 0 0 0 4em;
+    background: #efefef;
+    
+}
+
+#sidebar p {
+	font-size: 0.85em;
+}
+
+/* hide mobile nav and controls */
+#mobile_jump,
+#mobile_nav,
+#mobile_masthead {
+	display: none;
+}
+
+#overview-box {
+    width:30%;
+}
+
+#due-date {
+    color:#fff;
+    padding:5px;
+}
+
+
+
+
+
+/* ---------------- big screen background ------- */
+
+@media only screen and (min-width: 681px) {
+
+	body {
+		background-color: #000;
+		background-image: url('../img/berlin-miniature.jpg');
+        background-size:cover;
+		/*background-position: 50% 0; */
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+	}
+
+}
+
+
+
+/* ------------ mobile layout -------------- */
+
+@media only screen and (max-width: 680px) {
+/* Style adjustments for small screens */
+
+	/* remove margins */
+	#container {
+		width: 100%;
+		margin: 0;
+        margin-top:2em;
+		padding: 0 1em 0 1em;
+		border: none;
+        min-height:100%;
+	}
+
+	/* linearize display */
+	
+	#content {
+		clear: both;
+		width: 100%;
+		margin-top: 0;
+	}
+
+	#sidebar {
+		clear: both;
+		width: 100%;
+		padding: 0;
+	}
+	
+	/* make sidebar paragraphs bigger */
+	#sidebar p {
+		font-size: 1em;
+	}
+
+	/* hide desktop nav */
+	#desktop_nav {
+		display: none;
+	}
+
+    /* show masthead */
+    
+    #mobile_masthead {
+        display:block;
+        margin-top: 0;
+		padding: 1em;
+        background:#000000;
+    }
+    #mobile_masthead h1 {
+        color: #efefef;
+    }
+    
+    #flag {
+        display:none;
+    }
+    
+	/* show mobile nav */
+	#mobile_nav {
+		display: block;
+		margin-top: 3em;
+		padding: 1em;
+	}
+
+	/* show jump to nav */
+	#mobile_jump {
+		display: block;
+		padding: 1em;
+        background:olive;
+	}
+	#mobile_jump > h1 { 
+		display: inline;
+		font-size: 1em;
+	}
+	#mobile_jump > a { 
+		text-decoration: none;
+		color: #666;
+	}
+    
+    /* visual feedback for menu selection */
+    .nav > li > a:active {
+	   border-bottom: none;
+        background:#333;
+        color:white;
+    }
+}
+
+
+
+/* ------------- navigation ------------------ */
+
+.nav {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.nav > li {
+	float: left;	
+	margin: 0 1em 0 0;
+	padding: 0;
+}
+
+.nav > li > a {
+	text-decoration: none;
+	color: #666;
+}
+
+.nav > li > a:hover {
+	color: #f00;
+	border-bottom: 1px solid #f00;
+}
+
+.site_name {
+	font-weight: bold;
+}
+
+.nav .current > a {
+    color:green;
+}
+
+
+/* ------------- mobile navigation ------------------ */
+
+#mobile_nav > ul > li {
+	clear: both;
+	border-top: 1px solid #ccc;
+	width: 100%;
+}
+
+#mobile_nav > ul > li > a {
+	display: block;
+	padding: 0.5em;
+	width: 100%;
+}
+
+.nav > li > a:hover {
+	border-bottom: none;
+}
+
+
+/* ---------------- utiltites ------------------ */
+
+/* Contain floats: h5bp.com/q */
+.clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { *zoom: 1; }
+
+
+/* accordion panels */
+
+.accordion dd > a {
+    border-radius: 5px;
+    margin: 5px;
+}
+
+
+
+@media only print {
+
+    #desktop_nav {
+        display:none;
+    }
+    
+    #flag {
+        display:none;
+    }
+
+    #container {
+    border:none;
+}
+}
+
+
+
