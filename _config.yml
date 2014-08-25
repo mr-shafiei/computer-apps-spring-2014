@@ -5,35 +5,12 @@ redcarpet:
 markdown_ext: markdown,mkdown,mkdn,mkd,md
 highlighter: pygments
 pygments: true
-baseurl: "http://mrshafiei.com"
+baseurl:  
 permalink: pretty
 kramdown:
     input: GFM
 
 
 
-navigation:
-- title: Assignments
-  text: Assignments
-  url: /pages/assignments
   
-- title: Calendar
-  text: Calendar
-  url: /pages/calendar
-  
-- title: Syllabus
-  text: Syllabus
-  url: /pages/syllabus
-  
-- title: Blog
-  text: Blog
-  url: /pages/blog
-  
-- title: Resources
-  text: Resources
-  url: /pages/resources
-  
-- title: Grades
-  text: Grades
-  url: /pages/grades
 

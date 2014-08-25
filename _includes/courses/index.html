@@ -1,0 +1,61 @@
+<!-- Navigation -->
+{% for link in site.data.courses %}
+    {{link.url | append: '/'}}<br>
+    {{page.url}}<br>
+    {% assign current_page = link.url | append: '/' %}
+
+    <strong>{{current_page}}</strong><br>
+
+
+    {% if current_page == page.url %}
+
+        {% for sublink in link.subpages %}
+       
+       <a href="{{site.baseurl}}{{current_page}}{{sublink.url}}">{{sublink.text}}</a>
+        {% endfor %}
+
+
+{% endif %}
+
+{% endfor %}
+
+
+    <nav class="top-bar" data-topbar role="navigation">
+        <ul class="title-area">
+            <li class="name">
+                <h1><a href="#">{{site.name}}</a></h1>
+            </li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span></span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+        <!-- Right Nav Section -->
+            <ul class="right">
+
+            {% for link in site.data.courses %}
+
+                {% assign current_page = link.url | append: '/' %}
+
+                {% if current_page == page.url %}
+
+                    {% for sublink in link.subpages %}
+       
+                        <li><a href="{{site.baseurl}}{{current_page}}{{sublink.url}}">{{sublink.text}}</a></li>
+                    {% endfor %}
+                {% endif %}
+            {% endfor %}
+            
+                <li class="active"><a href="#">Right Button Active</a></li>
+                <li class="has-dropdown">
+                    <a href="#">Right Button Dropdown</a>
+                    <ul class="dropdown">
+                        <li><a href="#">First link in dropdown</a></li>
+                        <li class="active"><a href="#">Active link in dropdown</a></li>
+                    </ul>
+                </li>
+            </ul>
+
+        <!-- Left Nav Section -->
+
+        </section>
+    </nav>

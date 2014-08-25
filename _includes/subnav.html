@@ -1,0 +1,19 @@
+{% for link in site.data.courses %}
+    {{link.url | append: '/'}}<br>
+    {{page.url}}<br>
+    {% assign current_page = link.url | append: '/' %}
+
+    <strong>{{current_page}}</strong><br>
+
+
+    {% if current_page == page.url %}
+
+        {% for sublink in link.subpages %}
+       
+       <a href="{{site.baseurl}}{{current_page}}{{sublink.url}}">{{sublink.text}}</a>
+        {% endfor %}
+
+
+{% endif %}
+
+{% endfor %}
