@@ -1,9 +1,7 @@
 ---
-layout:     course-single-column
-title:      Computer Applications 1
-subtitle:   SY 2014-2015 (1st Quarter)
+layout: course-home
+title: "Home"
 ---
-
 
 
 ## Schedule ##
